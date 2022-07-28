@@ -1,0 +1,38 @@
+#header{
+    display: flex;
+    align-items: center;
+}
+
+#Icons{
+    display: flex;
+}
+
+i{
+    margin: 10px;
+
+}
+
+#right{
+    margin-left: 45%;
+}
+
+.fa-ellipsis-vertical{
+    margin-left: 350px;
+}
+
+.fa-bookmark{
+    margin-left: 300px;
+}
+
+body{
+    width: 500px;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 20px;
+    font-family: 'Roboto', sans-serif; 
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
